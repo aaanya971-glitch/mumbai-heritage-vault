@@ -1,0 +1,6 @@
+{
+  "name": "Mumbai HeritageVault",
+  "description": "Digital Historical & Cultural Heritage Museum for Mumbai, Maharashtra, India. Explore monuments, museums, forts, caves, artifacts, timeline, interactive map, and AI Heritage Guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
